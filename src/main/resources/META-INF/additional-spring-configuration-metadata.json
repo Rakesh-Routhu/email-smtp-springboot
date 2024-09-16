@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "azure.openai.api-key",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.openai.api-key'"
+  },
+  {
+    "name": "azure.openai.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.openai.endpoint'"
+  },
+  {
+    "name": "azure.openai.deployment-name",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.openai.deployment-name'"
+  },
+  {
+    "name": "azure.openai.api-version",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.openai.api-version'"
+  }
+]}
